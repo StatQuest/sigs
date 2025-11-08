@@ -8,7 +8,7 @@ Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the
 
 **Here's what people are saying about  **[The StatQuest Illustrated Guide to Statistics]()****
 
-
+>*Instead of a parade of obscure formulas, this friendly book is a must-read for anyone who wants to intuitively understand statistical arguments to solidify evidence for their projects.* - **Derek Sollberger**, [Princeton Center for Statistics and Machine Learning](https://csml.princeton.edu/)
 
 ----
 
