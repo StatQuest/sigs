@@ -1,6 +1,6 @@
 # The StatQuest Illustrated Guide to Statistics
 
-# Available In Late February!!!
+# COMING SOON!!!
 
 ----
 
