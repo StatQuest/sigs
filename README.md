@@ -1,5 +1,7 @@
 # The StatQuest Illustrated Guide to Statistics
 
+# Available In Late February!!!
+
 ----
 
 Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the github repository for my book, **[The StatQuest Illustrated Guide to Statistics]()**. Here are the coding tutorials associated with each chapter. Enjoy!
