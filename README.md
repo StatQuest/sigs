@@ -18,16 +18,16 @@ The physcial copies of the book are available on [Amazon](). If your more of a d
 
 All of the tutorials listed below can be run immediately in the cloud for free with the Google Colab.
 
-| Chapter | Google Colab
-| :------ | :-----------
-| 01: Fundamental Concepts in Statistics!!! |
-| 02 Visualizing Data and Calculating Probabilities with Histograms!!! |
-| 03 Saving Time and Money with Probability Distributions and Models!!! |
-| 04 Making Decisions with Hypothesis Testing and the Null Hypothesis!!! |
-| 05 Quantifying Confidence in our Decisions with p-values!!! |
-| 06 Making Decisions and Predictions with Linear Regression!!! |
-| 07 Using More Variables to Make Predictions with Multiple Regression!!! |
-| 08 Testing for Differences with t-tests!!! |
-| 09 Determining How Much Data to Collect with Power Analyses!!! |
-| 10 p-value Pitfalls and How to Avoid Them!!! |
-| 11 Testing for More Differences with ANOVA and Mixing Variables with ANCOVA!!! |
+| Chapter | Google Colab - Python | Google Colab - R
+| :------ | :-------------------- | :-----------
+| 01: Fundamental Concepts in Statistics!!! |  |
+| 02 Visualizing Data and Calculating Probabilities with Histograms!!! |  |
+| 03 Saving Time and Money with Probability Distributions and Models!!! |  |
+| 04 Making Decisions with Hypothesis Testing and the Null Hypothesis!!! |  |
+| 05 Quantifying Confidence in our Decisions with p-values!!! |  |
+| 06 Making Decisions and Predictions with Linear Regression!!! |  |
+| 07 Using More Variables to Make Predictions with Multiple Regression!!! |  |
+| 08 Testing for Differences with t-tests!!! |  |
+| 09 Determining How Much Data to Collect with Power Analyses!!! |  |
+| 10 p-value Pitfalls and How to Avoid Them!!! |  |
+| 11 Testing for More Differences with ANOVA and Mixing Variables with ANCOVA!!! |  |
