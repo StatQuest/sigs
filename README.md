@@ -16,7 +16,7 @@ The physcial copies of the book are available on [Amazon](https://www.amazon.com
 
 All of the tutorials listed below can be run immediately in the cloud for free with Google Colab.
 
-| Chapter | Google Colab - Python | Google Colab - R ```      ```
+| Chapter | Google Colab - Python | Google Colab ```      ``` - R
 | :------ | :-------------------- | :-----------
 | 01 Understanding Fundamental Concepts in Statistics!!! | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/sigs/blob/main/chapter_01/chapter_01_py.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/sigs/blob/main/chapter_01/chapter_01_r.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 | 02 Visualizing Data and Calculating Probabilities with Histograms!!! | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/sigs/blob/main/chapter_02/chapter_02_py.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/sigs/blob/main/chapter_02/chapter_02_r.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
