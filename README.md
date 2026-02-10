@@ -1,24 +1,22 @@
-# The StatQuest Illustrated Guide to Statistics
-
-# COMING SOON!!!
+# [The StatQuest Illustrated Guide to Statistics](https://www.amazon.com/dp/B0GMP7Z9ZL)
 
 ----
 
-Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the github repository for my book, **[The StatQuest Illustrated Guide to Statistics]()**. Here are the coding tutorials associated with each chapter. Enjoy!
+Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the github repository for my book, **[The StatQuest Illustrated Guide to Statistics](https://www.amazon.com/dp/B0GMP7Z9ZL)**. Here are the coding tutorials associated with each chapter. Enjoy!
 
-**Shameless Self Promotion!!!!** If you don't already have **[The StatQuest Illustrated Guide to Statistics]()**, you should get it! The book starts with the basics, calculating summary statistics and drawing histograms and then builds from there, one step at a time, until you have mastered the concepts behind Linear Regression, t-tests, ANOVA and ANCOVA. Furthermore, putting the theory into practice is easy because each major concept is paired with a Python and R tutorial. **BAM!**
+**Shameless Self Promotion!!!!** If you don't already have **[The StatQuest Illustrated Guide to Statistics](https://www.amazon.com/dp/B0GMP7Z9ZL)**, you should get it! The book starts with the basics, calculating summary statistics and drawing histograms and then builds from there, one step at a time, until you have mastered the concepts behind Linear Regression, t-tests, ANOVA and ANCOVA. Furthermore, putting the theory into practice is easy because each major concept is paired with a Python and R tutorial. **BAM!**
 
-**Here's what people are saying about  **[The StatQuest Illustrated Guide to Statistics]()****
+**Here's what people are saying about  **[The StatQuest Illustrated Guide to Statistics](https://www.amazon.com/dp/B0GMP7Z9ZL)****
 
 >*Instead of a parade of obscure formulas, this friendly book is a must-read for anyone who wants to intuitively understand statistical arguments to solidify evidence for their projects.* - **Derek Sollberger**, [Princeton Center for Statistics and Machine Learning](https://csml.princeton.edu/)
 
 ----
 
-The physcial copies of the book are available on [Amazon](). If your more of a digital kind of person, you can also purchase a [PDF]().
+The physcial copies of the book are available on [Amazon](https://www.amazon.com/dp/B0GMP7Z9ZL). If your more of a digital kind of person, you can also purchase a [PDF]().
 
 All of the tutorials listed below can be run immediately in the cloud for free with the Google Colab.
 
-| Chapter | Google Colab - Python | Google Colab - R
+| Chapter | <div style="width:100px">Google Colab - Python</div> | <div style="width:100px">Google Colab - R</div>
 | :------ | :-------------------- | :-----------
 | 01 Understanding Fundamental Concepts in Statistics!!! | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/sigs/blob/main/chapter_01/chapter_01_py.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/sigs/blob/main/chapter_01/chapter_01_r.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 | 02 Visualizing Data and Calculating Probabilities with Histograms!!! | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/sigs/blob/main/chapter_02/chapter_02_py.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | <a target="_blank" href="https://colab.research.google.com/github/StatQuest/sigs/blob/main/chapter_02/chapter_02_r.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
