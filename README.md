@@ -12,7 +12,7 @@ Hello! I'm [Josh Starmer](https://www.youtube.com/@statquest) and welcome to the
 
 ----
 
-The physcial copies of the book are available on [Amazon](https://www.amazon.com/dp/B0GMP7Z9ZL). If your more of a digital kind of person, you can also purchase a [PDF]().
+The physical copies of the book are available on [Amazon](https://www.amazon.com/dp/B0GMP7Z9ZL). If your more of a digital kind of person, you can also purchase a [PDF](https://statquest.gumroad.com/l/lykwh).
 
 All of the tutorials listed below can be run immediately in the cloud for free with Google Colab.
 
